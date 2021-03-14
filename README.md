@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Samaelish
 - 👀 I’m interested in cool JavaScript projects!
 - 🌱 I’m currently learning Web Development(MERN)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on cool projects!
+- 📫 You can reach me via gmail: semyondenisov@gmail.com
 
 <!---
 Samaelish/Samaelish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
