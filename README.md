@@ -1,11 +1,13 @@
 <h1 align="center">Hi there! I am Semyon Denisov/Samaelish 👋 </h1>
 <h3 align="center">🚀 FrontEnd Developer | MERN Stack | Programmer  🚀</h3>
+
 - 👋 Hi, I’m @Samaelish
 - 👀 I’m interested in cool JavaScript projects!
 - 🌱 I’m currently learning Web Development(MERN)
 - 💞️ I’m looking to collaborate on cool projects!
 - 📫 You can reach me via gmail: semyondenisov@gmail.com
 <br><hr><br/>
+
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -20,7 +22,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-<br><br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
 
 <img src="https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
