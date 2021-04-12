@@ -15,6 +15,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MaterialUI](https://img.shields.io/badge/-Material_UI-333333?style=flat&logo=material-ui)
   ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
+  ![Netlify](https://img.shields.io/badge/-netlify-333333?style=flat&logo=netlify)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
