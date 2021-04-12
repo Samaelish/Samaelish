@@ -23,6 +23,6 @@
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samaelish&theme=radical&title_color=8E2DE2&text_color=fff)
 
 <img src="https://github-readme-stats.vercel.app/api?username=samaelish&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
