@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I am Semyon Denisov/Samaelish 👋 </h1>
 <h3 align="center">🚀 FrontEnd Developer | MERN Stack | Programmer  🚀</h3>
 
-- 👀 I’m interested in cool JavaScript projects!
+- 👀 I’m interested in cool Web projects!
 - 🌱 I’m currently learning Web Development(MERN)
 - 💞️ I’m looking to collaborate on cool projects and web technologies!
 - 📫 You can reach me via gmail: semyondenisov@gmail.com
