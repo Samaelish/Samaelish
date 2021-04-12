@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I am Semyon Denisov/Samaelish 👋 </h1>
+<h1 align="center">Hi there! I am Semyon Denisov/Samaelish 👋🏻 </h1>
 <h3 align="center">🚀 FrontEnd Developer | MERN Stack | Programmer  🚀</h3>
 
 - 👀 I’m interested in cool Web projects!
