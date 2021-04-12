@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development(MERN)
 - 💞️ I’m looking to collaborate on cool projects!
 - 📫 You can reach me via gmail: semyondenisov@gmail.com
-
+<br>
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
