@@ -1,12 +1,10 @@
 <h1 align="center">Hi there! I am Semyon Denisov/Samaelish 👋 </h1>
 <h3 align="center">🚀 FrontEnd Developer | MERN Stack | Programmer  🚀</h3>
 
-- 👋 Hi, I’m @Samaelish
 - 👀 I’m interested in cool JavaScript projects!
 - 🌱 I’m currently learning Web Development(MERN)
 - 💞️ I’m looking to collaborate on cool projects!
 - 📫 You can reach me via gmail: semyondenisov@gmail.com
-<br><hr><br/>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
