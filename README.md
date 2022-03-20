@@ -1,9 +1,9 @@
-<h1 align="center">Hi there! I am Semyon Denisov/Samael/Samaelish 👋🏻 </h1>
+<h1 align="center">Hello there! I am Semyon Denisov/Samael/Samaelish 👋🏻 </h1>
 <h3 align="center">🚀 FrontEnd Developer | MERN Stack | Programmer  🚀</h3>
 
 - 👀 I’m interested in cool Web applications!
-- 🌱 I’m currently learning Web Development(MERN)
-- 💞️ I’m looking to collaborate on cool projects and web technologies!
+- 🌱 I'm a Junior JavaScript developer, working with Javascript for roughly 2 years.
+- 💞️ I’m looking to collaborate on awesome projects and web technologies!
 - 📫 You can reach me via gmail: semyondenisov@gmail.com
 
 - 🌐 &nbsp;
@@ -15,7 +15,6 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MaterialUI](https://img.shields.io/badge/-Material_UI-333333?style=flat&logo=material-ui)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=WordPress)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - 🔧 &nbsp;
