@@ -1,10 +1,10 @@
-<h1 align="center">Hello there! I am Semyon Denisov/Samael/Samaelish RU/EN 👋🏻 </h1>
+<h1 align="center">Привет всем! Меня зовут Семён Денисов/Samaelish RU/EN 👋🏻 </h1>
 <h3 align="center">🚀 FrontEnd Developer | MERN Stack | Programmer  🚀</h3>
 
-- 👀 I’m interested in cool Web applications!
-- 🌱 I'm a JavaScript developer, working with Javascript for roughly 2 years.
-- 💞️ I’m looking to collaborate on awesome projects and web technologies!
-- 📫 You can reach me via gmail: semyondenisov@gmail.com
+- 👀 Люблю и ищу крутые веб-приложения!
+- 🌱 Я JS-разработчик, работаю с JavaScript около 2 лет.
+- 💞️ В поиске с кем поработать над интересными проектами и технологиями!
+- 📫 Со мной можно связаться по электронной почте: semyondenisov@gmail.com
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
